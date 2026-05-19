@@ -2,9 +2,9 @@
 
 <p align="center">
   <br>
-<img src="contents/assets/viradock.png" width="50%" alt="Custom Dock Vira"">
+<img src="contents/assets/viradock.png" width="60%" alt="Custom Dock Vira"">
 <br></p>
-
+<br>
 A simple lightweight, standalone application launcher and dock widget for KDE Plasma 6 with custom mascot. Specifically for KDE Plasma 6 using QML and JavaScript.
 <br>
 <p align="center">
